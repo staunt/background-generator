@@ -1,0 +1,22 @@
+body{
+    background-image:url(logInBackgroud.webp) ;
+}
+img{
+    width: 50px;
+}
+
+.logInForm{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+input{
+    height: 25px;
+    margin: 5px;
+}
+.enter{
+   
+   margin-left: 700px;
+    width: 6em;
+    height: 2em;
+}
